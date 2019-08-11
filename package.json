@@ -4,7 +4,7 @@
   "description": "A site for anyone seeking good photo locations",
   "repository": "https://github.com/cornelia-schulz/photolocations",
   "main": "server/index.js",
-  "author": "Cornelia Schulz",
+  "author": "AuroraWorld",
   "license": "ISC",
   "scripts": {
     "build": "webpack --config ./webpack.config.js",
